@@ -2,7 +2,7 @@
 INSERT INTO authors (
   owner,
   balance,
-  currency,
+  currency
 ) VALUES (
   $1, $2, $3
 )
