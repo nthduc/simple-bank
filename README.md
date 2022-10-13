@@ -59,3 +59,7 @@ docker logs <container_name_or_id>
 - Very fast & easy to use
 - Automatic code generation
 - Catch SQL Query errors before generating codes
+
+***LIB***
+- `go get github.com/lib/pq`
+- `go get github.com/stretchr/testify`
